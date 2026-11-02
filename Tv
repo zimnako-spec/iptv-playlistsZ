@@ -1,1 +1,56 @@
-https://raw.githubusercontent.com/zimnako-spec/iptv-playlistsZ/main/Kurdish_Arabic_TV.m3u
+#EXTM3U
+
+#EXTINF:-1 group-title="KURDISH",Rudaw HD
+https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Kurdistan 24 HD
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Ava Media
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Waar TV HD
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+
+#EXTINF:-1 group-title="KURDISH",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Kurdsat HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Kurdsat News HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Channel 8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Payam TV HD
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Speda TV
+https://s1.ettehadlive.com/live/79/chunklist.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Diman TV
+
+#EXTINF:-1 group-title="KURDISH",Niga TV
+
+#EXTINF:-1 group-title="KURDISH",Newline TV
+http://newline.teradek.live:1935/live/linehd/playlist.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Cihan TV
+
+#EXTINF:-1 group-title="KURDISH",Khal TV
+
+#EXTINF:-1 group-title="KURDISH",BMC TV
+
+#EXTINF:-1 group-title="ARABIC NEWS",Al Jazeera Arabic HD
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 group-title="ARABIC NEWS",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KURDISH",Shams TV
+https://stream.shams.tv/hls/stream.m3u8
